@@ -1,0 +1,27 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAAAAADw/wAAAAAAAExEDwAAAADARET0AAAAAExERPQAAADARERPRA8AAMxNRETUDwDATBQREUH0AMBMRBRMTPQA3ExExERM9ADcTET0/0T0ANzcRERERNwM3M3RRETN3QzAzBwR0f/bDAAAzPT/D8wAAMBERPQAAAAAwPz//wAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Fish1"
+    },
+    "image3": {
+        "data": "hwQGAAgAAAAAAN0AAADdAAAAAN0AAADd3d3dAN3d3QA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Hook"
+    },
+    "image1": {
+        "data": "hwQBAAIAAAARAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "LineSegment"
+    },
+    "image4": {
+        "data": "hwSAAAQAAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAO7uAADu7gAA7u4AAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "FishingRod"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
